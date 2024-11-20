@@ -1,6 +1,6 @@
 # FAST-EF
 
-This repository contains the code and setup files for FAST-EF.
+This repository contains the code and setup files for FS3A of the paper "Federated 3GPP Mobile Edge Computing Systems: A Transparent Proxy for Third Party Authentication With Application Mobility Support" [https://doi.org/10.1109/ACCESS.2022.3162851](https://doi.org/10.1109/ACCESS.2022.3162851)
 
 
 ## Repository structure
